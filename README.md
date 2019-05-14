@@ -4,6 +4,11 @@
 + setup my code repositories
 + setup my Nuget packages
 + write my tech articles
+
 + investigate popular online education platforms
 + post all above to some online education platforms
+
 + establish a studio for business
+
+## Completed:
++ None yet
