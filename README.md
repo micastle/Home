@@ -1,6 +1,6 @@
 # home
 
-##My plan:
+## My plan:
 + setup my code repositories
 + setup my Nuget packages
 + write my tech articles
